@@ -3,3 +3,4 @@ terceita linha
 nova linha
 outra linha
 mais uma nova linha
+nova linha adicionada no master
