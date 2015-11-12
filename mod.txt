@@ -3,3 +3,5 @@ terceita linha
 nova linha
 outra linha
 mais uma nova linha
+aqui
+adicionado linha no teste
