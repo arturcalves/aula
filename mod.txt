@@ -1,4 +1,8 @@
 segunda linha modificada
 terceita linha
 nova linha
+<<<<<<< HEAD
 outra linha
+=======
+mais uma nova linha
+>>>>>>> parent of 0069733... outro
